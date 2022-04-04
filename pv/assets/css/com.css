@@ -208,11 +208,7 @@ tr {
   max-width: 449px;
 }
 
-@media (max-width: 768px) {
-  .video-player {
-    margin-top: 0 !important;
-  }
-}
+
 
 .a-btn {
       text-decoration: none;
